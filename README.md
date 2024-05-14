@@ -1,1 +1,1 @@
-Created a new repository named Task-2-Project-SCM
+1. Created a new repository named Task-2-Project-SCM
